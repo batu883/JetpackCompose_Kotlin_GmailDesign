@@ -1,0 +1,11 @@
+Hi I'm Batuhan. 
+I am starting to interest  Android Kotlin Development. 
+After old-fashioned XML and layout coding,I started with Jetpack Compose Techniques.
+In this project I copied the Gmail mobile user interface with static data's.
+I learnt to use Cards and learnt open drawable menu's.
+Column,Row objects and modifiers for designs are more familiar for me now.
+I can add scroll specification to functions.
+I learnt Scaffold states,floatingbutton and openDialog to.
+Jetpack Compose is nice and interesting for me.
+I am going to learn more of these.
+Also I kept the codes in order.
