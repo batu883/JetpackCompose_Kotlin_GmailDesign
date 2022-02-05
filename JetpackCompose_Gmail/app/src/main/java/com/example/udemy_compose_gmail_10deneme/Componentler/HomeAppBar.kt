@@ -70,11 +70,7 @@ fun HomeAppBar(scaffoldState: ScaffoldState,
                     AccountsDialog(openDialog)
                 }
             }
-
         }
-
-
-
 
     }
 

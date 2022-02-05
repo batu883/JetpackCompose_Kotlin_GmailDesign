@@ -14,7 +14,8 @@ import com.example.udemy_compose_gmail_10deneme.Datalar.BottomBarData
 
 @Composable
 fun BottomBar(){
-    val listele= listOf(BottomBarData.Mail,   BottomBarData.Meet)
+    val listele= listOf(BottomBarData.Mail,
+                        BottomBarData.Meet)
     BottomNavigation() {
         listele.forEach {
                 x->

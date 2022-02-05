@@ -100,7 +100,6 @@ fun DialogBox(openDialog: MutableState<Boolean>) {
                     modifier = Modifier.padding(8.dp)
                     )
                 }
-
             }
             Divider(modifier = Modifier.padding(top = 15.dp, bottom = 10.dp))
             

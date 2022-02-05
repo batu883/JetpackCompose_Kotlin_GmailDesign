@@ -47,7 +47,6 @@ fun GmailApp() {
         bottomBar = { BottomBar()             },
         //MailViewList(scroll)
         floatingActionButton = { FloatingButton(scroll2) },
-
         )
 
     {
@@ -62,6 +61,4 @@ fun DefaultPreview() {
     Udemy_Compose_Gmail_10denemeTheme() {
         GmailApp()
     }
-
-
 }
