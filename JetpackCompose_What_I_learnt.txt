@@ -8,4 +8,3 @@ I can add scroll specification to functions.
 I learnt Scaffold states,floatingbutton and openDialog to.
 Jetpack Compose is nice and interesting for me.
 I am going to learn more of these.
-Also I kept the codes in order.
